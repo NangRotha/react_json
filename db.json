@@ -1,0 +1,42 @@
+{
+    "students":[
+        {
+            "id":1,
+            "name":"koko",
+            "age":20,
+            "major":"computer"
+        },
+        {
+            "id":2,
+            "name":"toyo",
+            "age":20,
+            "major":"design"
+        },
+        {
+            "id":3,
+            "name":"momo",
+            "age":20,
+            "major":"acccounting"
+        }
+    ],
+    "course":[
+        {
+            "id":1,
+            "title":"Introtion to programing",
+            "credit":3,
+            "instructor":"Dr.Smit"
+        },
+        {
+            "id":2,
+            "title":"Introtion to programing",
+            "credit":3,
+            "instructor":"Dr.Smit"
+        },
+        {
+            "id":3,
+            "title":"Introtion to programing",
+            "credit":3,
+            "instructor":"Dr.Smit"
+        }
+    ]
+}
